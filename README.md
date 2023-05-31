@@ -25,6 +25,7 @@ Limitations of the GA include: limited focus on control flow coverage, use of si
 My code: 
 
 This code is the resolution of a university assignment. Therefore, it was not intended to improve these limitations, just to apply the CGA in a specific problem. 
+To run this, you will need to download the Jupyter Notebook software or you can either use Colaboratory from Google.
 
 ![image](https://github.com/annam27/SciCommProjAssig-u199965/assets/92887280/bce0230e-5406-4788-97a3-54c0368b2c3a)
 
